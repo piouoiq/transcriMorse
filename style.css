@@ -30,7 +30,7 @@ h1 {
 .input {
   display: grid;
   align-content: center;
-  margin: 2rem;
+  /* margin: 2rem; */
   justify-content: center;
 }
 
